@@ -14,7 +14,7 @@ const Homepage: React.FC = () => {
     <div className="homepage-container">
       {/* Logo positioned in upper angle right-hand side */}
       <img 
-        src="../../public/TOKNAR-02-WHITE.png" // Adjust the path as necessary
+        src="/TOKNAR-01-NAVY.png"// Adjust the path as necessary
         alt="TOKNAR Logo" 
         className="logo"
         onMouseEnter={handleLogoHover}
